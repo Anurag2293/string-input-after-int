@@ -1,4 +1,5 @@
 # String Input in JAVA after Integer input.
+
 ````
 import java.util.Scanner;
 
